@@ -1,0 +1,52 @@
+---
+title: "Milestone 2"
+author: "Adam Aleksic"
+date: "9/25/2020"
+output: html_document
+---
+
+GitHub repo: https://github.com/etymologynerd/milestone_2
+
+First review - Thinking Inside the Box: A Crossword Analysis
+
+https://paolo-pasco.shinyapps.io/crossword_shiny/
+
+Pros:
+
+- Really interesting, espcially for a linguistics nerd such as myself!
+
+- Comprehensive. I like how it includes data from many years and types.
+
+- The "Explore Answers" page is AMAZING. I really like how I can look up anything.
+
+- The data was put into context well. The explanations were useful.
+
+Cons: 
+
+- Looks pretty plain, the design of the site isn't very exciting 
+
+- Paolo definitely could've added color to the bar charts
+
+- If possible, I would have liked to see this with other newspapers too!
+
+Second review - The Language of Emojis
+
+https://linda-qin.shinyapps.io/gov1005-emojis/
+
+Pros: 
+
+- I like the styles and colors used on the website!
+
+- Really interesting topic and a good way of going about researching it
+
+- I like the interactive word cloud and network pages
+
+Cons:
+
+- Possibly a low sample size
+
+- Not representative (too many Asian students polled)
+
+- Would like to see this on a broader scale than just Harvard-specific
+
+- Some of the bar charts could've been formatted better
